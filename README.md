@@ -7,8 +7,8 @@
 - 👩🏻‍💻 Pronouns: She/Her
 - 💼 I’m currently working as a Software Developer at [Navi](navi.com).
 - 📋 I've worked as an MTS at [GeeksforGeeks](geeksforgeeks.org) earlier.
-- 🎒 I've done almost 6-7 internships in frontend primaryly.
-- 👩🏻‍🏫 I love teaching students and have mentored across 400+ students over various platforms.
+- 🎒 I've done almost 6-7 internships in frontend primarily.
+- 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. One of my videos on youtube has 15K+ views on it, wherein I've taught how to create a Swiggy Clone.
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
