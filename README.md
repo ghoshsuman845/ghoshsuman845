@@ -5,8 +5,8 @@
 
 ### About Me 👧🏻 :
 - 👩🏻‍💻 Pronouns: She/Her
-- 💼 I’m currently working as a Software Developer at [Navi](navi.com).
-- 📋 I've worked as an MTS at [GeeksforGeeks](geeksforgeeks.org) earlier.
+- 💼 I’m currently working as a Software Developer at [Cred](cred.club).
+- 📋 I've worked as a Software Engineer at [Navi](navi.com) and an MTS at [GeeksforGeeks](geeksforgeeks.org) earlier.
 - 🎒 I've done almost 6-7 internships in frontend primarily.
 - 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. One of my videos on youtube has 15K+ views on it, wherein I've taught how to create a <a href="https://www.youtube.com/watch?v=G4Y9N1Z-IUE&t=103s&ab_channel=AccioJob">Swiggy Clone</a>.
 - 🧭 I love exploring and working both in frontend and backend.
