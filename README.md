@@ -27,7 +27,7 @@
 
 ### 📈 Github Stats:
 ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghoshsuman845&show_icons=true&hide=issues,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshsuman845&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshsuman845&layout=donut)
 
 ### :coffee: Let's Connect 
 <p align="center">
