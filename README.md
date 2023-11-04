@@ -5,10 +5,14 @@
 - 💼 I’m currently working as a <strong>Frontend Engineer</strong> at [CRED](cred.club).
 - 📋 I've previously worked as a Software Engineer at [Navi](navi.com) and an MTS at [GeeksforGeeks](geeksforgeeks.org).
 - 🎒 I've done almost 6-7 internships in frontend primarily.
-- 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. One of my videos on youtube has 23K+ views on it, wherein I've taught how to create a <a href="https://www.youtube.com/watch?v=G4Y9N1Z-IUE&t=103s&ab_channel=AccioJob">Swiggy Clone</a>.
+- 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. 
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
+- 📺 Watch my talks on youtube:
+  
+    - [How to crack offers from PBCs | Interview  and Job Hunting Discussed](https://youtu.be/B0bb8q12KOg?si=ue5pL_1lb0tfb0M3)
+    - [Swiggy Clone using HTML, CSS](https://www.youtube.com/live/G4Y9N1Z-IUE?si=18jB9zzPiRQEpFwf)
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
