@@ -10,7 +10,6 @@
 - 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
 - 📺 Watch my talks on youtube:
-  
     - [How to crack offers from PBCs | Interview  and Job Hunting Discussed](https://youtu.be/B0bb8q12KOg?si=ue5pL_1lb0tfb0M3)
     - [Swiggy Clone using HTML, CSS](https://www.youtube.com/live/G4Y9N1Z-IUE?si=18jB9zzPiRQEpFwf)
 
