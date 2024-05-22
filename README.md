@@ -10,8 +10,11 @@
 - 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
 - 📺 Watch my talks on youtube:
-    - [How to crack offers from PBCs | Interview  and Job Hunting Discussed](https://youtu.be/B0bb8q12KOg?si=ue5pL_1lb0tfb0M3)
+    - [**Podcast with Fraz** : How to crack offers from PBCs | Interview  and Job Hunting Discussed](https://youtu.be/B0bb8q12KOg?si=ue5pL_1lb0tfb0M3)
+    - [**Talk at Devfest Bangalore**: Secret Web Performance  Metric that no one would tell you](https://youtu.be/5I25RVKHHjQ?si=BmN-nMFumkmaK-aI)
+    - [**Talk at React Bangalore Meetup** : INP | The Newest Core Web Vital](https://www.youtube.com/watch?v=JSYjSHfBzPg)
     - [Swiggy Clone using HTML, CSS](https://www.youtube.com/live/G4Y9N1Z-IUE?si=18jB9zzPiRQEpFwf)
+  
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
@@ -27,10 +30,6 @@
 
 ### :fire: Streaks 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghoshsuman845)](https://git.io/streak-stats)  
-
-### 📈 Github Stats (Amongst top 50%)
-![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=ghoshsuman845&show_icons=true&hide=issues,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshsuman845&layout=compact&langs_count=4)
 
 ### :coffee: Hit Me Up Here
 <p align="center">
